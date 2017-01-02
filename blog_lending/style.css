@@ -54,7 +54,7 @@
   margin-right: 7px;
 }
 .text {
-  font-family: BreeSerif;
+  font-family: 'Bree Serif', serif;
   color: #606060;
   font-size: 20px; 
   font-weight: 400;
@@ -81,7 +81,7 @@
   height: 81px;
   float: left;
   text-align: center;
-  font-family: Ubuntu;
+  font-family: 'Ubuntu', sans-serif;
   font-size: 14px;
   line-height: 88px;
 }
@@ -110,12 +110,12 @@
 }
 .part3_blog > a{
   text-decoration: none;
-  font-family: Ubuntu;
+  font-family: 'Ubuntu', sans-serif;
   line-height: 24px;
   color: #ffffff;
 }
 .part3_search{
-  font-family: Ubuntu;
+  font-family: 'Ubuntu', sans-serif;
   color:  #515862;
   margin-top: 37px;
   float: left;
@@ -156,9 +156,9 @@
   
 }
 .slide_cont .slide_p {
-font-family: Ubuntu;
+font-family: 'Ubuntu', sans-serif;
 color: #cccece;
-font-size: 15px;
+font-size: 13px;
 font-weight: 400;
 text-align: center;
 }
@@ -176,7 +176,7 @@ text-align: center;
 }
 .slide_a{
   text-decoration: none; 
-  font-family: UbuntuCondensed;
+  font-family: 'Ubuntu Condensed', sans-serif;
   color:  #ffebca;
   font-size: 25px;
   font-weight: 400;
@@ -246,15 +246,15 @@ text-align: center;
   overflow: hidden;
 }
 ._group > h2{
-  font-family: BreeSerif;
+  font-family: 'Bree Serif', serif;
   color:  #515862;
-  font-size: 17px;
+  font-size: 15px;
   font-weight: 400;
   text-align: center;
   margin-bottom: 9px;
 }
 ._group > p {
-  font-family: Ubuntu;
+  font-family: 'Ubuntu', sans-serif;
   color:  #515862;
   font-size: 11px;
   font-weight: 400;
@@ -319,7 +319,7 @@ text-align: center;
   padding-bottom: 70px;
 }
 .port_head h4 {
-  font-family: BreeSerif;
+  font-family: 'Bree Serif', serif;
   color: #f98561;
   font-size: 30px; 
   font-weight: 400;
@@ -367,7 +367,7 @@ text-align: center;
 }
 
 ._port > h2 {
-  font-family: BreeSerif;
+  font-family: 'Bree Serif', serif;
   color: #f98561;
   font-size: 17px; 
   font-weight: 400;
@@ -375,7 +375,7 @@ text-align: center;
   margin-top: 21px;
 }
 ._port > p {
-  font-family: Ubuntu;
+  font-family: 'Ubuntu', sans-serif;
   color: #bcbcbc;
   font-size: 11px; 
   font-weight: 400;
@@ -406,7 +406,7 @@ text-align: center;
 
 }
 ._offer p {
-  font-family: Ubuntu;
+  font-family: 'Ubuntu', sans-serif;
   color: #515862;
   font-size: 12px; 
   font-weight: 400;
@@ -424,7 +424,7 @@ text-align: center;
 }
 ._offer_group > h3 {
   margin-bottom: 9px;
-  font-family: BreeSerif;
+  font-family: 'Bree Serif', serif;
   color:  #2b99cc;
   font-size: 17px;
   font-weight: 400;
@@ -443,7 +443,7 @@ text-align: center;
 
 ._offer_group p > a {
   text-decoration: none;
-  font-family: BreeSerif;
+  font-family: 'Bree Serif', serif;
   color:  #2b99cc;
   font-size: 14px;
   font-weight: 400;
@@ -463,7 +463,7 @@ text-align: center;
   box-shadow: #135673 0 1px,#135673 0 2px
 }
 ._offer_button ._offer_a {
-  font-family: Ubuntu;
+  font-family: 'Ubuntu', sans-serif;
   color:  #ffffff;
   font-size: 12px;
   font-weight: 400;
@@ -487,7 +487,7 @@ text-align: center;
   margin-bottom: 35px;
 }
 #_p {
-  font-family: BreeSerif;
+  font-family: 'Bree Serif', serif;
   color: #515862;
   font-size: 25px; 
   font-weight: 400;
@@ -496,7 +496,7 @@ text-align: center;
 #ceo {
   margin-top: 59px;
   margin-bottom: 29px;
-  font-family: Ubuntu;
+  font-family: 'Ubuntu', sans-serif;
   color: #f98561;
   font-weight: 400;
   line-height: 15px; 
@@ -504,7 +504,7 @@ text-align: center;
 
 }
 #ceo span{
-  font-family: Ubuntu;
+  font-family: 'Ubuntu', sans-serif;
   color: #f98561;
   font-size: 14px; 
   font-weight: 700;
@@ -563,7 +563,7 @@ text-align: center;
 .twit p, 
 .news p,
 .recent p{
-  font-family: Ubuntu;
+  font-family: 'Ubuntu', sans-serif;
   color:  #a3afb2;
   font-size: 12px;
   font-weight: 400;
@@ -573,7 +573,7 @@ text-align: center;
 .twit a,
 .news a,
 .recent a {
-  font-family: Ubuntu;
+  font-family: 'Ubuntu', sans-serif;
   color:  #2190c1;
   font-size: 12px;
   font-weight: 400;
@@ -597,7 +597,7 @@ text-align: center;
   margin: 7px 0;
 }
 .news span{
-  font-family: Ubuntu;
+  font-family: 'Ubuntu', sans-serif;
   color: #2190c1;
   font-size: 13px; 
   font-weight: 400;
@@ -617,7 +617,7 @@ input[type="button"]{
   height: 28px;
   border-radius: 3px;
   float: right;
-  font-family: Ubuntu;
+  font-family: 'Ubuntu', sans-serif;
   color:  #ffffff;
   font-size: 13px;
   font-weight: 400;
@@ -678,7 +678,7 @@ input[type="button"]{
 .cont_1 img {
 }
 .contact p {
-  font-family: Ubuntu;
+  font-family: 'Ubuntu', sans-serif;
   color: #a3afb2;
   font-size: 13px; 
   font-weight: 400;
