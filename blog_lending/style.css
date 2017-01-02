@@ -65,16 +65,19 @@
   height: 80px;
   float: left;
 }
-.home_part3 {
-  width: 27.01%;
-  height: 80px;
-  float: left;
+.nav {
+  list-style: none;
 }
+.nav li {
+  float: left;
+  width: 25%;
 
-.part2_menu> a {
+  
+}
+.nav a {
   text-decoration: none;
   color:  #515862;
-    width: 24%;
+  width: 100%;
   height: 81px;
   float: left;
   text-align: center;
@@ -82,7 +85,13 @@
   font-size: 14px;
   line-height: 88px;
 }
-.part2_menu a:hover {
+.home_part3 {
+  width: 27.01%;
+  height: 80px;
+  float: left;
+}
+
+.nav li a:hover {
   background: #12a3d6;
   color: #fff;
   display: block;
